@@ -1,0 +1,11 @@
+# Ignore all IDE project files and directories 
+.idea
+*.iml
+*.ipr
+*.iws
+.vscode
+*.sublime-project
+*.sublime-workspace
+*.sublime-settings
+
+*.old*
