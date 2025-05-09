@@ -33,7 +33,7 @@ LitteDOM is a compact virtual DOM implementation that follows React's component 
 - **Hooks**: Support for useState, useEffect, useReducer, useRef, useMemo, and useCallback
 - **Event System**: Synthetic event system similar to React
 - **Fragments & Portals**: Support for fragments and portals
-- **SSR Support**: Server-side rendering capabilities (This feature is still in development, but it will be added soon)
+- **SSR Support**: Server-side rendering capabilities (This feature is still in development, avaliable now)
 - **Testing Framework**: Integración con LitTest para pruebas unitarias y de componentes
 
 ## Installation
@@ -214,7 +214,7 @@ LittleDOM supports all modern browsers including:
 
 ## Testing with LitTest
 
-LittleDOM integrates seamlessly with [LitTest](./lib/littest/), a lightweight testing framework designed specifically for LittleDOM components. This feature is still in development but will be added soon. Any feedback or suggestions are welcome!
+LittleDOM integrates seamlessly with [LitTest](./lib/littest/), a lightweight testing framework designed specifically for LittleDOM components. This feature is still in development but it is avaliable now. Any feedback or suggestions are welcome!
 
 ### LitTest Features
 
